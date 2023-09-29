@@ -1,8 +1,7 @@
 package org.imuniverse.twopointers;
 
-import java.util.*;
 // Template for the linked list
-class LinkedList<T> {
+public class LinkedList<T> {
     public LinkedListNode head;
     // constructor will be used to make a LinkedList type object
     public LinkedList() {
